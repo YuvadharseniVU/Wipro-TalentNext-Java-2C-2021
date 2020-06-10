@@ -1,4 +1,4 @@
-		//Bucket Fill - Solution
+		//Bucket Fill
 
 class Result {
 		/*Complete the 'strokesRequired' function below. The function is expected to return an INTEGER.
