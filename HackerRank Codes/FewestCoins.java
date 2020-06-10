@@ -1,4 +1,4 @@
-		//Virtusa Test-3 Fewest Coins - Solution
+		//Fewest Coins
 
 class Result {
 
