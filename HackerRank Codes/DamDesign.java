@@ -1,4 +1,4 @@
-	//Virtusa Test-3 - Dam Design
+	//Dam Design
 class Result {
 		/*Complete the 'maxHeight' function below.The function is expected to return an INTEGER.
 			The function accepts following parameters:
