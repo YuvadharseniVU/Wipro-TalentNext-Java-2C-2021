@@ -1,4 +1,4 @@
-			//ZIG ZAG ARRAY - SOLUTION
+			//ZIG ZAG ARRAY
 
 import java.io.*;
 import java.math.*;
